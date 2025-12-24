@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "sapnokiduniya",
+    "description": "",
+    "home_page_url": "https://skd.aankhepoetry.in",
+    "feed_url": "https://skd.aankhepoetry.in/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Aankhe"
+    },
+    "items": [
+    ]
+}
